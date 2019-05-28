@@ -1,2 +1,0 @@
-This is where our lipsum text goes
-we will make it into a lipsum feature branch
